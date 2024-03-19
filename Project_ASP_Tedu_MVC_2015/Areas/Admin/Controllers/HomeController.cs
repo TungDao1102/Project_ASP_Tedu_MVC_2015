@@ -9,5 +9,9 @@ namespace Project_ASP_Tedu_MVC_2015.Areas.Admin.Controllers
         {
             return View();
         }
+        public IActionResult A()
+        {
+            return View();
+        }
     }
 }
