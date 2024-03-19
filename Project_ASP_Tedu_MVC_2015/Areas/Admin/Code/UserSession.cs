@@ -4,6 +4,6 @@
     {
         public string UserName { set; get; }
         public int key { get; set; }
-
+        public int name { get; set; }
     }
 }
